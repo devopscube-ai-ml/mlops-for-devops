@@ -73,8 +73,8 @@ Code: `phase-1-local-dev/`
 | 8 | Kubeflow Trainer Explained (Hands-on) | 🔜 Coming Next |
 | 9 | MLflow Explained for MLOps | 🔜 Planned |
 | 10| Hands-on MLflow on Kubernetes | 🔜 Planned |
-| 11| Model Monotoring Explained | 🔜 Planned |
-| 12| Model Monotoring - Hands On | 🔜 Planned |
+| 11| Model Monitoring Explained | 🔜 Planned |
+| 12| Model Monitoring - Hands On | 🔜 Planned |
 
 Code: `phase-2-enterprise-setup/`
 
