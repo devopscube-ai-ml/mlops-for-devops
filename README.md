@@ -94,10 +94,6 @@ Code: `phase-2-enterprise-setup/`
 | 1 | 🤖 Traditional ML | K8s Deploy & Model Serving | ✅ Done |
 | 3 | 🤖 Traditional ML | Enterprise Orchestration | 🔄 In Progress |
 | 4 | 🤖 Traditional ML | Monitor & Observe | 🔜 Planned |
-| 5 | 🧠 Foundational Models | Foundational Models | 🔜 Planned |
-| 6 | 🧠 Foundational Models | LLM Serving & Scaling | 🔜 Planned |
-| 7 | ⚙️ LLM-Powered DevOps | LLM-Powered DevOps | 🔜 Planned |
-| 8 | ⚙️ LLM-Powered DevOps | Emerging AI Ops | 🔜 Planned |
 
 ---
 
@@ -130,7 +126,6 @@ Here is the tech stack you will be using in this setup.
 ## MLOps Tools
 
 - [Ray](https://github.com/ray-project/ray): Open-source distributed computing framework For Python & AI Workloads
-- [rtk](https://github.com/rtk-ai/rtk): High-performance CLI proxy that reduces LLM token consumption.
 - [CML](https://github.com/iterative/cml): CI/CD for Machine Learning Projects
 
 ## License
