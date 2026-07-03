@@ -26,17 +26,17 @@ If you are completely new to MLOps, read our [DevOps to MLOps guide](https://dev
 
 Most MLOps resources are written for data scientists learning infrastructure. This repo flips that.
 
-You do not need to become a data scientist. But just like understanding how a Java application is built makes you a better DevOps engineer, understanding how an ML model is built, trained, and served makes you effective at operating ML workloads in production.
+**You do not need to become a data scientist**. But just like understanding how a Java application is built makes you a better DevOps engineer, understanding how an ML model is built, trained, and served makes you effective at operating ML workloads in production.
 
 ---
 
 ## What We Build
 
-We'll start with the basics of building and training a model, then work our way up to production-ready MLOps.
+We'll start with the **basics of building and training a mode**l, then work our way up to production-ready MLOps.
 
 Just like a DevOps engineer doesn't write the application but understands how it is built and deployed, an MLOps engineer doesn't need to be a data scientist. Understanding the ML workflow helps you build, automate, deploy, and troubleshoot ML systems effectively.
 
-Everything in this roadmap runs on Kubernetes, Docker, and tools you'll use in real-world MLOps platforms.
+Everything in this roadmap **runs on Kubernetes, Docker**, and tools you'll use in real-world MLOps platforms.
 
 ---
 
