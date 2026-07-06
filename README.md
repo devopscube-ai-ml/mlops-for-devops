@@ -8,6 +8,10 @@ If you are completely new to MLOps, read our [DevOps to MLOps guide](https://dev
 
 ---
 
+Hit the Star! ⭐
+If you are planning to use this repo for learning MLOps, please hit the star. Thanks!
+
+---
 ## Table of Contents
 
 - [Who This Is For](#who-this-is-for)
