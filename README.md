@@ -8,6 +8,10 @@ If you are completely new to MLOps, read our [DevOps to MLOps guide](https://dev
 
 ---
 
+Hit the Star! ⭐
+If you are planning to use this repo for learning MLOps, please hit the star. Thanks!
+
+---
 ## Table of Contents
 
 - [Who This Is For](#who-this-is-for)
@@ -26,31 +30,17 @@ If you are completely new to MLOps, read our [DevOps to MLOps guide](https://dev
 
 Most MLOps resources are written for data scientists learning infrastructure. This repo flips that.
 
-You do not need to become a data scientist. But just like understanding how a Java application is built makes you a better DevOps engineer, understanding how an ML model is built, trained, and served makes you effective at operating ML workloads in production.
+**You do not need to become a data scientist**. But just like understanding how a Java application is built makes you a better DevOps engineer, understanding how an ML model is built, trained, and served makes you effective at operating ML workloads in production.
 
 ---
 
 ## What We Build
 
-| Track | What You Learn |
-|-------|----------------|
-| 🤖 Traditional ML | Train, serve, automate, and monitor a real ML model on Kubernetes |
-| 🧠 Foundational Models | Serve LLMs in production using vLLM, TGI, and Ollama |
-| ⚙️ LLM-Powered DevOps | Monitor K8s clusters, build RAG pipelines and agents with LLMs |
+We'll start with the **basics of building and training a mode**l, then work our way up to production-ready MLOps.
 
-Everything runs on Kubernetes, Docker, and tools you already use.
+Just like a DevOps engineer doesn't write the application but understands how it is built and deployed, an MLOps engineer doesn't need to be a data scientist. Understanding the ML workflow helps you build, automate, deploy, and troubleshoot ML systems effectively.
 
----
-
-## Prerequisites
-
-| Skill | Level |
-|-------|-------|
-| Kubernetes | Intermediate |
-| AWS EKS | Working knowledge |
-| Python | Basic (read and run scripts) |
-
-No ML experience needed. That is what this repo teaches.
+Everything in this roadmap **runs on Kubernetes, Docker**, and tools you'll use in real-world MLOps platforms.
 
 ---
 
@@ -80,11 +70,21 @@ Code: `phase-1-local-dev/`
 | 3 | Data Versioning using Airflow on Kubernetes | [Read The Guide](https://newsletter.devopscube.com/p/mlops-airflow-dvc-pipeline)|
 | 4 | Feature Store Fundamentals Explained | [Read The Guide](https://newsletter.devopscube.com/p/mlops-feature-store) |
 | 5 | Hands-on Feature Store with Feast on Kubernetes | [Read The Guide](https://devopscube.com/setup-feature-store-feast-on-kubernetes/) |
-| 6 | Kubeflow Explained for MLOps | 🔜 Coming Next |
-| 7 | Hands-on Kubeflow on Kubernetes | 🔜 Planned |
-| 8 | MLflow Explained for MLOps | 🔜 Planned |
+| 6 | Kubeflow Explained for MLOps | [Read The Guide](https://newsletter.devopscube.com/p/kubeflow-pipelines)  |
+| 7 | Hands-on Kubeflow on Kubernetes | [Read The Guide](https://devopscube.com/setup-kubeflow-pipelines-kubernetes/) |
+| 8 | Kubeflow Trainer Explained (Hands-on) | [Read the Guide](https://newsletter.devopscube.com/p/kubeflow-trainer) |
+| 9 | MLflow Explained for MLOps | 🔜 Coming Next |
+| 10| Hands-on MLflow on Kubernetes | 🔜 Coming Next |
+| 11| Model Monitoring Explained | 🔜 Planned |
+| 12| Model Monitoring - Hands On | 🔜 Planned |
 
 Code: `phase-2-enterprise-setup/`
+
+## Capstone MLOps Project: End to Ends MLops Projects on Kubernetes | 🔜 Planned |
+
+In this capstone project, you'll build a production-style MLOps platform on Kubernetes by combining everything you've learned throughout this series.
+
+By the end, you'll have built an enterprise-grade MLOps workflow that mirrors how modern organizations develop, train, track, and operate machine learning models on Kubernetes.
 
 ---
 
@@ -96,10 +96,6 @@ Code: `phase-2-enterprise-setup/`
 | 1 | 🤖 Traditional ML | K8s Deploy & Model Serving | ✅ Done |
 | 3 | 🤖 Traditional ML | Enterprise Orchestration | 🔄 In Progress |
 | 4 | 🤖 Traditional ML | Monitor & Observe | 🔜 Planned |
-| 5 | 🧠 Foundational Models | Foundational Models | 🔜 Planned |
-| 6 | 🧠 Foundational Models | LLM Serving & Scaling | 🔜 Planned |
-| 7 | ⚙️ LLM-Powered DevOps | LLM-Powered DevOps | 🔜 Planned |
-| 8 | ⚙️ LLM-Powered DevOps | Emerging AI Ops | 🔜 Planned |
 
 ---
 
@@ -132,7 +128,6 @@ Here is the tech stack you will be using in this setup.
 ## MLOps Tools
 
 - [Ray](https://github.com/ray-project/ray): Open-source distributed computing framework For Python & AI Workloads
-- [rtk](https://github.com/rtk-ai/rtk): High-performance CLI proxy that reduces LLM token consumption.
 - [CML](https://github.com/iterative/cml): CI/CD for Machine Learning Projects
 
 ## License
