@@ -72,9 +72,9 @@ Code: `phase-1-local-dev/`
 | 5 | Hands-on Feature Store with Feast on Kubernetes | [Read The Guide](https://devopscube.com/setup-feature-store-feast-on-kubernetes/) |
 | 6 | Kubeflow Explained for MLOps | [Read The Guide](https://newsletter.devopscube.com/p/kubeflow-pipelines)  |
 | 7 | Hands-on Kubeflow on Kubernetes | [Read The Guide](https://devopscube.com/setup-kubeflow-pipelines-kubernetes/) |
-| 8 | Kubeflow Trainer Explained (Hands-on) | 🔜 Coming Next |
-| 9 | MLflow Explained for MLOps | 🔜 Planned |
-| 10| Hands-on MLflow on Kubernetes | 🔜 Planned |
+| 8 | Kubeflow Trainer Explained (Hands-on) | [Read the Guide](https://newsletter.devopscube.com/p/kubeflow-trainer) |
+| 9 | MLflow Explained for MLOps | 🔜 Coming Next |
+| 10| Hands-on MLflow on Kubernetes | 🔜 Coming Next |
 | 11| Model Monitoring Explained | 🔜 Planned |
 | 12| Model Monitoring - Hands On | 🔜 Planned |
 
